@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-17T10:46:26 IST" name="Default suite" finished-at="2022-03-17T10:47:23 IST" duration-ms="57431">
+    <groups>
+    </groups>
+    <test started-at="2022-03-17T10:46:26 IST" name="Default test" finished-at="2022-03-17T10:47:23 IST" duration-ms="57431">
+      <class name="com.amazon.loginpageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:46:26 IST" name="setup" finished-at="2022-03-17T10:46:32 IST" duration-ms="5849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="positivelogintest()[pri:1, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:46:32 IST" name="positivelogintest" finished-at="2022-03-17T10:46:38 IST" duration-ms="6654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positivelogintest -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:46:38 IST" name="closedriver" finished-at="2022-03-17T10:46:39 IST" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:46:39 IST" name="setup" finished-at="2022-03-17T10:46:45 IST" duration-ms="5877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="incorretusernameTest()[pri:2, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:46:45 IST" name="incorretusernameTest" finished-at="2022-03-17T10:46:49 IST" duration-ms="3644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorretusernameTest -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:46:49 IST" name="closedriver" finished-at="2022-03-17T10:46:49 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:46:49 IST" name="setup" finished-at="2022-03-17T10:46:57 IST" duration-ms="7823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="incorrectpasswordTest()[pri:3, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:46:57 IST" name="incorrectpasswordTest" finished-at="2022-03-17T10:47:03 IST" duration-ms="5270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectpasswordTest -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:47:03 IST" name="closedriver" finished-at="2022-03-17T10:47:03 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:47:03 IST" name="setup" finished-at="2022-03-17T10:47:08 IST" duration-ms="5064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="newaccountTest()[pri:4, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:47:08 IST" name="newaccountTest" finished-at="2022-03-17T10:47:11 IST" duration-ms="2823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newaccountTest -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:47:11 IST" name="closedriver" finished-at="2022-03-17T10:47:12 IST" duration-ms="713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:47:12 IST" name="setup" finished-at="2022-03-17T10:47:17 IST" duration-ms="4711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="forgotpasswordTest()[pri:5, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:47:17 IST" name="forgotpasswordTest" finished-at="2022-03-17T10:47:21 IST" duration-ms="4833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpasswordTest -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:com.amazon.loginpageTest@4efc180e]" started-at="2022-03-17T10:47:21 IST" name="closedriver" finished-at="2022-03-17T10:47:23 IST" duration-ms="1912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- com.amazon.loginpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
